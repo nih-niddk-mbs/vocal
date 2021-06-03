@@ -1,104 +1,104 @@
-ID,When,Test,NumberSymptoms,Severity,VoiceOutCat,VoiceOut,VoiceInCat,VoiceIn,MaskOutCat,MaskOut,MaskInCat,MaskIn,Fever,Cough,Fatigue,Aches,Headache,SoreThroat,Conjestion,Nausea,Breath,Smell,Diar,BMI,SelfAge,GenderNow,Race,Global01,MedCond_Heart,MedCond_HighBP,MedCond_Immune,MedCond_Diabetes
-10286,December 2020-January 2021,Positive,3,1,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,1,0,0,0,0,1,0,29.75495656,35-50,Female,Hispanic,Very Good,No,No,No,No
-11067,Feb-March 2020,Positive,5,3,0,0,0.6,1,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,0,1,1,0,0,1,1,0,0,1,0,23.17016602,51-69,Female,Others,Excellent,No,No,No,No
-11504,October-November 2020,Positive,3,2,0,0,0.6,1,4 - I always used a facemask.,3,1 - Never,0,1,0,0,0,1,0,1,0,0,0,0,39.15125863,35-50,Male,Hispanic,Excellent,No,Yes,No,No
-11524,April-May 2020,Positive,0,,0,0,0,0,4 - I always used a facemask.,3,4 - Often,2,0,0,0,0,0,0,0,0,0,0,0,36.32388154,51-69,Male,White,Very Good,No,Yes,No,Yes
-12091,October-November 2020,Positive,2,1,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,0,0,0,0,1,0,0,0,0,26.57626561,51-69,Male,White,Very Good,No,No,No,No
-16002,June-July 2020,Positive,5,4,0.13,0.2,0.13,0.2,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,0,0,1,0,1,0,1,27.7031338,51-69,Male,White,Fair,Yes,Yes,Yes,No
-16179,June-July 2020,Positive,5,2,1.75,2,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,0,0,1,0,1,0,0,32.35389804,70 or over,Male,White,Good,No,Yes,No,No
-16233,June-July 2020,Positive,1,1,4,8,1.75,2.5,4 - I always used a facemask.,3,1 - Never,0,0,0,0,0,0,0,0,0,0,1,0,33.96135266,35-50,Male,Hispanic,Excellent,No,No,No,No
-16278,June-July 2020,Positive,3,3,4,3,1.75,1.5,4 - I always used a facemask.,3,1 - Never,0,1,0,1,0,0,0,0,0,1,0,0,31.17359536,35-50,Female,Black,Good,No,No,No,No
-16299,October-November 2020,Positive,8,4,0,0,0.13,0.1,3 - I sometimes used a facemask.,1,1 - Never,0,1,1,1,1,1,0,0,1,0,1,1,35.86255291,35-50,Female,White,Excellent,No,No,No,No
-16326,October-November 2020,Positive,5,3,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,0,0,1,0,0,0,0,44.29741651,35-50,Male,White,Fair,No,Yes,No,No
-16404,October-November 2020,Positive,6,3,0.13,0.1,0.6,1,4 - I always used a facemask.,3,1 - Never,0,0,0,0,1,1,1,1,0,0,1,1,22.8475,35-50,Female,White,Good,No,No,No,No
-16423,Feb-March 2020,Positive,10,5,0,0,0,0,3 - I sometimes used a facemask.,1,2 - Rarely,1,1,1,1,1,1,0,1,1,1,1,1,35.68918919,35-50,Male,White,Very Good,No,No,No,No
-16441,October-November 2020,Positive,10,2,0.6,0.5,4,3,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,1,1,0,1,1,1,38.73278237,51-69,Female,White,Good,No,Yes,No,No
-16491,August to September 2020,Positive,6,1,0,0,0.13,0.1,3 - I sometimes used a facemask.,1,1 - Never,0,0,0,1,1,1,1,1,0,0,1,0,29.1183432,35-50,Female,White,Very Good,No,No,No,No
-16495,October-November 2020,Positive,1,1,4,8,0,0,3 - I sometimes used a facemask.,1,1 - Never,0,0,0,1,0,0,0,0,0,0,0,0,33.90239198,51-69,Male,White,Good,No,No,No,No
-16564,"Did not get sick, but asked to be tested (e.g. surgery, work, etc.)",Negative,0,,0,0,0.13,0.05,4 - I always used a facemask.,3,1 - Never,0,0,0,0,0,0,0,0,0,0,0,0,32.11771029,51-69,Female,White,Very Good,No,No,No,No
-16570,June-July 2020,Positive,5,2,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,1,1,1,0,0,0,0,0,1,1,0,40.23413111,35-50,Female,Black,Good,No,Yes,No,No
-16643,October-November 2020,Positive,7,2,0,0,0.6,1,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,0,1,1,0,1,0,26.62285587,35-50,Female,White,Good,Yes,Yes,No,No
-16658,October-November 2020,Positive,4,2,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,1,1,0,0,0,0,1,0,24.37066667,18-34,Male,White,Very Good,No,No,No,No
-16700,October-November 2020,Positive,10,4,0.6,1,4,4,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,1,0,1,1,1,1,27.36591696,35-50,Male,Hispanic,Excellent,No,No,No,Yes
-16723,June-July 2020,Positive,3,2,0,0,4,4.5,4 - I always used a facemask.,3,1 - Never,0,1,1,0,0,1,0,0,0,0,0,0,36.48788927,18-34,Male,Hispanic,Very Good,No,Yes,No,Yes
-16728,October-November 2020,Positive,0,,0.13,0.25,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,0,0,0,0,0,0,0,0,0,37.58520829,35-50,Female,White,Good,No,No,No,No
-16730,October-November 2020,Positive,6,2,0,0,0.6,0.5,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,1,0,1,0,1,1,0,42.03653061,35-50,Male,White,Good,No,Yes,No,Yes
-16731,June-July 2020,Positive,4,2,0.13,0.25,0.13,0.25,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,1,1,1,1,0,0,0,0,0,0,0,27.43236212,70 or over,Female,White,Very Good,No,Yes,No,No
-16785,October-November 2020,Positive,7,3,0.13,0.05,0.6,0.5,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,0,1,0,0,1,1,39.31971904,35-50,Female,White,Very Good,No,No,No,No
-16805,October-November 2020,Positive,9,3,0.13,0.1,0.6,0.5,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,1,1,1,1,1,1,1,28.88624567,51-69,Male,White,Good,No,No,No,No
-16857,October-November 2020,Positive,5,1,0,0,0,0,4 - I always used a facemask.,3,2 - Rarely,1,1,1,1,0,1,0,1,0,0,0,0,32.27731864,51-69,Female,White,Good,No,No,No,No
-16861,October-November 2020,Positive,9,2,0,0,0.6,0.5,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,0,1,0,1,1,1,33.65331318,18-34,Female,White,Very Good,No,No,No,No
-16948,August to September 2020,Positive,9,2,4,3,4,6,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,1,1,1,0,1,1,54.87144169,35-50,Female,White,Fair,No,Yes,No,No
-16959,October-November 2020,Positive,11,4,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,1,1,1,1,1,1,33.83324662,51-69,Female,Others,Good,No,No,Yes,No
-16963,June-July 2020,Positive,3,4,0.6,0.5,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,0,1,0,0,1,0,0,1,0,24.18274657,35-50,Female,Hispanic,Good,No,No,No,No
-16966,Feb-March 2020,Positive,7,4,0,0,4,4,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,4 - Often,2,0,1,1,1,0,1,1,0,1,1,0,29.26118626,35-50,Female,White,Excellent,No,No,No,No
-16988,June-July 2020,Positive,1,1,0.13,0.25,0.13,0.25,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,0,0,0,0,0,0,0,22.3755787,70 or over,Male,White,Very Good,No,Yes,No,No
-17035,June-July 2020,Positive,8,3,0.6,1,0.6,1,3 - I sometimes used a facemask.,1,1 - Never,0,0,1,1,0,1,1,1,0,1,1,1,30.61585799,35-50,Female,White,Very Good,No,No,No,No
-17093,June-July 2020,Positive,7,5,0.6,0.5,1.75,2,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,0,0,1,0,1,1,0,23.74577778,51-69,Male,White,Good,Yes,Yes,No,Yes
-17145,October-November 2020,Positive,2,4,0,0,4,4,4 - I always used a facemask.,3,5 - Always,3,1,0,1,0,0,0,0,0,0,0,0,34.32617188,51-69,Female,Black,Excellent,No,No,No,No
-17241,June-July 2020,Positive,9,3,4,3,4,3,4 - I always used a facemask.,3,1 - Never,0,1,0,1,1,1,1,1,1,1,1,0,26.70083247,18-34,Female,White,Good,No,No,No,No
-17396,Feb-March 2020,Positive,6,3,0.13,0.25,0,0,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,5 - Always,3,1,1,0,0,0,1,1,0,1,0,1,25.62044444,51-69,Male,White,Very Good,Yes,Yes,Yes,No
-17458,June-July 2020,Positive,5,2,0.6,0.5,1.75,2,4 - I always used a facemask.,3,1 - Never,0,1,1,1,0,1,0,0,0,0,1,0,33.65331318,51-69,Female,White,Very Good,No,Yes,No,No
-17542,June-July 2020,Positive,3,5,0,0,0,0,2 - I often used a facemask to protect myself,2,2 - Rarely,1,0,1,1,0,0,0,0,0,1,0,0,21.78719008,70 or over,Female,White,Good,No,Yes,No,Yes
-17552,April-May 2020,Positive,6,,0,0,4,10,4 - I always used a facemask.,3,2 - Rarely,1,1,0,1,1,0,0,1,0,1,1,0,38.73278237,35-50,Female,Black,Good,No,Yes,No,Yes
-17581,August to September 2020,Positive,8,2,0,0,0.6,0.3,4 - I always used a facemask.,3,1 - Never,0,0,0,1,1,1,0,1,1,1,1,1,29.75495656,35-50,Female,White,Excellent,No,No,No,No
-17625,Feb-March 2020,,9,4,4,8,1.75,2,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,1,1,1,1,1,1,0,1,1,0,1,25.08542388,51-69,Female,White,Very Good,No,No,No,No
-17635,April-May 2020,Positive,0,,4,7,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,0,0,0,0,0,0,0,0,0,36.2779133,18-34,Male,White,Very Good,No,No,No,No
-17673,August to September 2020,,6,3,0.6,0.5,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,0,0,1,0,0,1,1,26.38175676,51-69,Male,White,Good,Yes,Yes,No,Yes
-17679,June-July 2020,Positive,6,5,0.6,0.5,0,0,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,1,0,1,1,1,0,1,0,1,0,0,30.12224323,70 or over,Male,White,Good,No,No,Yes,No
-17719,October-November 2020,Positive,7,2,0,0,4,8,4 - I always used a facemask.,3,1 - Never,0,1,1,1,0,1,0,1,0,0,1,1,29.04958678,35-50,Female,White,Excellent,No,No,No,No
-17747,Feb-March 2020,Positive,10,4,0,0,1.75,2,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,1,1,1,1,1,1,1,1,1,0,1,32.07498512,35-50,Male,White,Very Good,No,No,No,No
-17792,June-July 2020,Positive,9,5,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,1,0,1,1,1,1,27.36591696,35-50,Female,"White,Hispanic",Fair,No,No,No,No
-17794,April-May 2020,Negative,5,3,0.13,0.1,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,1,1,1,0,0,0,0,19.96686391,18-34,Female,White,Very Good,No,No,No,No
-17849,August to September 2020,Positive,1,5,0,0,0,0,3 - I sometimes used a facemask.,1,1 - Never,0,0,0,1,0,0,0,0,0,0,0,0,24.38979592,70 or over,Male,White,Good,Yes,No,No,Yes
-17878,October-November 2020,Positive,8,1,0.13,0.15,0.13,0.1,3 - I sometimes used a facemask.,1,1 - Never,0,1,1,1,1,1,1,1,1,0,0,0,37.97067901,18-34,Female,White,Good,No,No,No,No
-18000,June-July 2020,Positive,6,2,0,0,1.75,2.5,4 - I always used a facemask.,3,1 - Never,0,1,0,0,1,1,0,1,1,0,1,0,19.96686391,51-69,Male,White,Good,No,Yes,Yes,No
-18150,December 2020-January 2021,Positive,8,3,0,0,1.75,2,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,0,1,0,0,1,1,37.6532434,35-50,Male,"White,Asian",Good,No,Yes,No,Yes
-18280,June-July 2020,Positive,3,1,1.75,1.5,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,0,0,0,0,1,1,0,0,0,34.32617188,35-50,Female,White,Good,No,No,No,No
-18283,December 2020-January 2021,Positive,4,2,0,0,0.13,0.05,4 - I always used a facemask.,3,1 - Never,0,0,0,1,1,1,0,1,0,0,0,0,22.8049308,18-34,Female,White,Excellent,No,No,No,No
-18299,October-November 2020,Positive,9,4,0,0,0.13,0.05,4 - I always used a facemask.,3,1 - Never,0,1,0,1,1,1,0,1,1,1,1,1,23.49075518,35-50,Female,White,Good,No,No,No,No
-18329,October-November 2020,Positive,6,2,0,0,0.13,0.2,4 - I always used a facemask.,3,1 - Never,0,0,0,1,1,1,0,1,0,0,1,1,21.25472411,18-34,Female,White,Good,No,No,No,No
-18361,October-November 2020,Positive,2,1,1.75,2,4,5,4 - I always used a facemask.,3,1 - Never,0,0,0,0,1,1,0,0,0,0,0,0,24.95857988,35-50,Female,Hispanic,Good,No,No,No,No
-18411,December 2020-January 2021,Positive,8,2,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,0,1,0,1,1,0,38.26982249,18-34,Female,White,Good,No,No,No,No
-18435,April-May 2020,Positive,3,1,0.13,0.1,1.75,2,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,0,0,0,0,0,1,0,23.91156463,18-34,Male,White,Excellent,No,No,No,No
-18458,February - March 2021,,10,4,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,1,1,0,1,1,1,41.59763314,18-34,Female,White,Fair,No,No,Yes,No
-18487,December 2020-January 2021,Positive,8,3,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,1,0,1,1,1,1,1,1,0,0,1,30.24093364,18-34,Male,White,Good,No,No,No,No
-18534,December 2020-January 2021,Positive,5,2,4,4,4,6.5,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,1,1,1,0,0,1,0,24.88647461,35-50,Female,White,Very Good,No,No,No,No
-18550,December 2020-January 2021,Positive,10,5,4,3,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,0,1,1,1,1,1,30.26205118,51-69,Male,White,Good,No,No,No,No
-18693,February - March 2021,Positive,8,5,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,0,1,1,1,1,1,0,24.40972222,51-69,Male,White,Very Good,Yes,Yes,No,No
-18726,October-November 2020,Positive,4,3,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,1,0,1,0,1,0,0,0,0,1,0,26.62878788,18-34,Nonbinary,White,Very Good,No,No,No,Yes
-18815,April-May 2020,did not test - doctor suspected,3,4,4,4,4,4,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,1,1,1,0,0,0,0,0,0,0,0,31.37770284,51-69,Male,White,Excellent,No,No,No,Yes
-18827,October-November 2020,Positive,5,2,0.13,0.1,0.6,0.5,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,0,0,0,0,0,1,1,25.79944455,35-50,Male,White,Good,Yes,No,No,No
-18838,October-November 2020,Positive,5,2,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,0,1,0,1,0,0,0,0,25.7658179,35-50,Female,White,Good,No,No,Yes,No
-18839,February - March 2021,Positive,5,1,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,1,1,1,0,0,1,0,26.38393695,18-34,Male,White,Excellent,No,No,No,No
-18902,Feb-March 2020,Positive,8,3,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,0,0,1,1,0,1,1,33.44723183,18-34,Male,Hispanic,Excellent,No,Yes,Yes,No
-18918,December 2020-January 2021,Positive,8,3,1.75,2,1.75,2,2 - I often used a facemask to protect myself,2,1 - Never,0,0,0,1,1,1,1,1,0,1,1,1,31.00819156,35-50,Male,White,Very Good,No,Yes,No,No
-18931,December 2020-January 2021,Positive,5,1,1.75,2,4,8,4 - I always used a facemask.,3,1 - Never,0,0,1,0,1,0,1,1,0,0,1,0,31.83027778,51-69,Female,White,Very Good,No,No,No,No
-18996,December 2020-January 2021,Positive,6,1,0.6,0.5,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,0,1,0,1,0,0,1,0,25.95692308,51-69,Female,White,Good,No,Yes,No,No
-19007,October-November 2020,Positive,7,3,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,1,0,0,1,1,0,34.4531076,18-34,Female,White,Very Good,No,No,No,No
-19009,April-May 2020,Positive,9,4,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,1,1,1,1,0,1,38.48998215,35-50,Male,"White,Asian,Others",Poor,Yes,Yes,No,No
-19023,December 2020-January 2021,Positive,5,3,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,0,1,0,0,0,0,24.20798898,35-50,Female,White,Good,No,No,No,No
-19026,February - March 2021,Positive,1,1,0,0,1.75,1.5,4 - I always used a facemask.,3,1 - Never,0,0,0,0,0,0,0,0,0,0,1,0,26.62878788,18-34,Female,White,Very Good,No,No,No,No
-19130,December 2020-January 2021,Positive,4,1,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,1,0,1,0,0,0,0,22.84882842,35-50,Female,White,Fair,No,No,No,No
-19206,October-November 2020,Positive,8,3,0.13,0.1,1.75,2,4 - I always used a facemask.,3,1 - Never,0,1,0,1,0,1,1,1,1,0,1,1,48.23435063,35-50,Female,White,Good,No,No,No,No
-19219,October-November 2020,Positive,0,1,0.13,0.2,0,0,2 - I often used a facemask to protect myself,2,1 - Never,0,0,0,0,0,0,0,0,0,0,0,0,26.62285587,51-69,Male,White,Excellent,No,No,No,No
-19302,October-November 2020,Positive,7,4,0.6,0.5,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,1,1,1,1,0,1,1,0,34.89317208,18-34,Female,White,Good,No,Yes,No,Yes
-19307,January 2020 or earlier,Positive,7,2,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,0,1,1,1,1,0,1,0,1,0,21.4644169,18-34,Female,Hispanic,Fair,No,No,No,No
-19316,December 2020-January 2021,Positive,5,1,0.6,1,0.6,1,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,0,1,1,0,0,1,0,25.93890101,18-34,Male,"White,Black",Excellent,No,No,No,No
-19321,December 2020-January 2021,Positive,6,3,0.13,0.05,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,0,0,0,0,1,1,46.34033203,18-34,Female,Hispanic,Fair,No,No,No,No
-19389,December 2020-January 2021,Positive,9,4,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,1,1,0,1,1,0,25.74462891,35-50,Female,Hispanic,Fair,No,Yes,No,Yes
-19467,December 2020-January 2021,Positive,8,3,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,0,1,1,1,0,0,22.31201172,51-69,Female,White,Good,No,No,No,No
-19516,December 2020-January 2021,did not test - doctor suspected,8,4,0.6,1,0.6,1,4 - I always used a facemask.,3,1 - Never,0,1,0,1,1,1,1,1,1,0,0,1,24.14047867,51-69,Female,White,Very Good,No,No,No,No
-19528,December 2020-January 2021,Positive,2,5,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,0,1,0,0,0,0,0,0,0,0,38.73278237,51-69,Female,White,Very Good,No,Yes,No,No
-19559,December 2020-January 2021,Positive,2,1,0,0,0.6,1,4 - I always used a facemask.,3,1 - Never,0,1,0,0,0,0,0,0,0,0,1,0,22.46272189,35-50,Female,White,Excellent,No,No,No,No
-19580,December 2020-January 2021,Positive,7,1,0,0,0,0,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,1,0,1,1,1,0,0,1,0,1,1,42.28335932,18-34,Female,"Black,Hispanic",Good,No,No,No,No
-19603,December 2020-January 2021,Positive,1,1,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,0,0,0,0,0,0,0,24.70723684,35-50,Male,White,Excellent,No,No,No,No
-19625,December 2020-January 2021,Positive,1,1,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,0,0,0,0,0,0,0,21.14167966,35-50,Female,White,Very Good,No,No,No,No
-19653,December 2020-January 2021,Positive,5,2,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,0,0,1,0,0,1,0,28.33963215,51-69,Female,Hispanic,Very Good,No,No,No,No
-19683,December 2020-January 2021,Positive,7,2,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,0,1,1,0,1,0,0,22.46272189,18-34,Female,White,Very Good,No,No,No,No
-19721,December 2020-January 2021,Positive,6,1,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,1,1,1,1,0,0,1,0,27.4609375,18-34,Female,White,Excellent,No,No,No,No
-19735,December 2020-January 2021,Positive,7,3,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,0,1,1,1,0,0,0,1,1,1,25.68279164,70 or over,Female,White,Good,No,No,No,No
-19740,August to September 2020,Positive,3,2,1.75,2,0.6,1,4 - I always used a facemask.,3,1 - Never,0,0,0,0,0,1,0,0,0,1,1,0,28.88624567,51-69,Male,White,Very Good,No,No,No,No
-19776,December 2020-January 2021,Positive,1,2,0.6,1,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,0,0,0,0,0,0,0,28.94097879,18-34,Female,White,Very Good,No,No,No,No
-19776,December 2020-January 2021,Positive,8,4,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,1,0,1,0,1,1,28.94097879,18-34,Female,White,Very Good,No,No,No,No
-19780,December 2020-January 2021,did not test - doctor suspected,7,4,0,0,0.6,1,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,0,0,0,1,1,0,24.37066667,51-69,Male,White,Good,No,No,No,No
+Test,NumberSymptoms,Severity,VoiceOutCat,VoiceOut,VoiceInCat,VoiceIn,MaskOutCat,MaskOut,MaskInCat,MaskIn,Fever,Cough,Fatigue,Aches,Headache,SoreThroat,Conjestion,Nausea,Breath,Smell,Diar
+Positive,3,1,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,1,0,0,0,0,1,0
+Positive,5,3,0,0,0.6,1,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,0,1,1,0,0,1,1,0,0,1,0
+Positive,3,2,0,0,0.6,1,4 - I always used a facemask.,3,1 - Never,0,1,0,0,0,1,0,1,0,0,0,0
+Positive,0,,0,0,0,0,4 - I always used a facemask.,3,4 - Often,2,0,0,0,0,0,0,0,0,0,0,0
+Positive,2,1,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,0,0,0,0,1,0,0,0,0
+Positive,5,4,0.13,0.2,0.13,0.2,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,0,0,1,0,1,0,1
+Positive,5,2,1.75,2,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,0,0,1,0,1,0,0
+Positive,1,1,4,8,1.75,2.5,4 - I always used a facemask.,3,1 - Never,0,0,0,0,0,0,0,0,0,0,1,0
+Positive,3,3,4,3,1.75,1.5,4 - I always used a facemask.,3,1 - Never,0,1,0,1,0,0,0,0,0,1,0,0
+Positive,8,4,0,0,0.13,0.1,3 - I sometimes used a facemask.,1,1 - Never,0,1,1,1,1,1,0,0,1,0,1,1
+Positive,5,3,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,0,0,1,0,0,0,0
+Positive,6,3,0.13,0.1,0.6,1,4 - I always used a facemask.,3,1 - Never,0,0,0,0,1,1,1,1,0,0,1,1
+Positive,10,5,0,0,0,0,3 - I sometimes used a facemask.,1,2 - Rarely,1,1,1,1,1,1,0,1,1,1,1,1
+Positive,10,2,0.6,0.5,4,3,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,1,1,0,1,1,1
+Positive,6,1,0,0,0.13,0.1,3 - I sometimes used a facemask.,1,1 - Never,0,0,0,1,1,1,1,1,0,0,1,0
+Positive,1,1,4,8,0,0,3 - I sometimes used a facemask.,1,1 - Never,0,0,0,1,0,0,0,0,0,0,0,0
+Negative,0,,0,0,0.13,0.05,4 - I always used a facemask.,3,1 - Never,0,0,0,0,0,0,0,0,0,0,0,0
+Positive,5,2,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,1,1,1,0,0,0,0,0,1,1,0
+Positive,7,2,0,0,0.6,1,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,0,1,1,0,1,0
+Positive,4,2,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,1,1,0,0,0,0,1,0
+Positive,10,4,0.6,1,4,4,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,1,0,1,1,1,1
+Positive,3,2,0,0,4,4.5,4 - I always used a facemask.,3,1 - Never,0,1,1,0,0,1,0,0,0,0,0,0
+Positive,0,,0.13,0.25,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,0,0,0,0,0,0,0,0,0
+Positive,6,2,0,0,0.6,0.5,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,1,0,1,0,1,1,0
+Positive,4,2,0.13,0.25,0.13,0.25,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,1,1,1,1,0,0,0,0,0,0,0
+Positive,7,3,0.13,0.05,0.6,0.5,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,0,1,0,0,1,1
+Positive,9,3,0.13,0.1,0.6,0.5,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,1,1,1,1,1,1,1
+Positive,5,1,0,0,0,0,4 - I always used a facemask.,3,2 - Rarely,1,1,1,1,0,1,0,1,0,0,0,0
+Positive,9,2,0,0,0.6,0.5,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,0,1,0,1,1,1
+Positive,9,2,4,3,4,6,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,1,1,1,0,1,1
+Positive,11,4,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,1,1,1,1,1,1
+Positive,3,4,0.6,0.5,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,0,1,0,0,1,0,0,1,0
+Positive,7,4,0,0,4,4,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,4 - Often,2,0,1,1,1,0,1,1,0,1,1,0
+Positive,1,1,0.13,0.25,0.13,0.25,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,0,0,0,0,0,0,0
+Positive,8,3,0.6,1,0.6,1,3 - I sometimes used a facemask.,1,1 - Never,0,0,1,1,0,1,1,1,0,1,1,1
+Positive,7,5,0.6,0.5,1.75,2,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,0,0,1,0,1,1,0
+Positive,2,4,0,0,4,4,4 - I always used a facemask.,3,5 - Always,3,1,0,1,0,0,0,0,0,0,0,0
+Positive,9,3,4,3,4,3,4 - I always used a facemask.,3,1 - Never,0,1,0,1,1,1,1,1,1,1,1,0
+Positive,6,3,0.13,0.25,0,0,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,5 - Always,3,1,1,0,0,0,1,1,0,1,0,1
+Positive,5,2,0.6,0.5,1.75,2,4 - I always used a facemask.,3,1 - Never,0,1,1,1,0,1,0,0,0,0,1,0
+Positive,3,5,0,0,0,0,2 - I often used a facemask to protect myself,2,2 - Rarely,1,0,1,1,0,0,0,0,0,1,0,0
+Positive,6,,0,0,4,10,4 - I always used a facemask.,3,2 - Rarely,1,1,0,1,1,0,0,1,0,1,1,0
+Positive,8,2,0,0,0.6,0.3,4 - I always used a facemask.,3,1 - Never,0,0,0,1,1,1,0,1,1,1,1,1
+,9,4,4,8,1.75,2,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,1,1,1,1,1,1,0,1,1,0,1
+Positive,0,,4,7,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,0,0,0,0,0,0,0,0,0
+,6,3,0.6,0.5,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,0,0,1,0,0,1,1
+Positive,6,5,0.6,0.5,0,0,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,1,0,1,1,1,0,1,0,1,0,0
+Positive,7,2,0,0,4,8,4 - I always used a facemask.,3,1 - Never,0,1,1,1,0,1,0,1,0,0,1,1
+Positive,10,4,0,0,1.75,2,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,1,1,1,1,1,1,1,1,1,0,1
+Positive,9,5,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,1,0,1,1,1,1
+Negative,5,3,0.13,0.1,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,1,1,1,0,0,0,0
+Positive,1,5,0,0,0,0,3 - I sometimes used a facemask.,1,1 - Never,0,0,0,1,0,0,0,0,0,0,0,0
+Positive,8,1,0.13,0.15,0.13,0.1,3 - I sometimes used a facemask.,1,1 - Never,0,1,1,1,1,1,1,1,1,0,0,0
+Positive,6,2,0,0,1.75,2.5,4 - I always used a facemask.,3,1 - Never,0,1,0,0,1,1,0,1,1,0,1,0
+Positive,8,3,0,0,1.75,2,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,0,1,0,0,1,1
+Positive,3,1,1.75,1.5,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,0,0,0,0,1,1,0,0,0
+Positive,4,2,0,0,0.13,0.05,4 - I always used a facemask.,3,1 - Never,0,0,0,1,1,1,0,1,0,0,0,0
+Positive,9,4,0,0,0.13,0.05,4 - I always used a facemask.,3,1 - Never,0,1,0,1,1,1,0,1,1,1,1,1
+Positive,6,2,0,0,0.13,0.2,4 - I always used a facemask.,3,1 - Never,0,0,0,1,1,1,0,1,0,0,1,1
+Positive,2,1,1.75,2,4,5,4 - I always used a facemask.,3,1 - Never,0,0,0,0,1,1,0,0,0,0,0,0
+Positive,8,2,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,0,1,0,1,1,0
+Positive,3,1,0.13,0.1,1.75,2,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,0,0,0,0,0,1,0
+,10,4,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,1,1,0,1,1,1
+Positive,8,3,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,1,0,1,1,1,1,1,1,0,0,1
+Positive,5,2,4,4,4,6.5,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,1,1,1,0,0,1,0
+Positive,10,5,4,3,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,0,1,1,1,1,1
+Positive,8,5,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,0,1,1,1,1,1,0
+Positive,4,3,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,1,0,1,0,1,0,0,0,0,1,0
+did not test - doctor suspected,3,4,4,4,4,4,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,1,1,1,0,0,0,0,0,0,0,0
+Positive,5,2,0.13,0.1,0.6,0.5,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,0,0,0,0,0,1,1
+Positive,5,2,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,0,1,0,1,0,0,0,0
+Positive,5,1,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,1,1,1,0,0,1,0
+Positive,8,3,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,0,0,1,1,0,1,1
+Positive,8,3,1.75,2,1.75,2,2 - I often used a facemask to protect myself,2,1 - Never,0,0,0,1,1,1,1,1,0,1,1,1
+Positive,5,1,1.75,2,4,8,4 - I always used a facemask.,3,1 - Never,0,0,1,0,1,0,1,1,0,0,1,0
+Positive,6,1,0.6,0.5,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,0,1,0,1,0,0,1,0
+Positive,7,3,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,1,0,0,1,1,0
+Positive,9,4,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,1,1,1,1,0,1
+Positive,5,3,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,0,1,0,0,0,0
+Positive,1,1,0,0,1.75,1.5,4 - I always used a facemask.,3,1 - Never,0,0,0,0,0,0,0,0,0,0,1,0
+Positive,4,1,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,1,0,1,0,0,0,0
+Positive,8,3,0.13,0.1,1.75,2,4 - I always used a facemask.,3,1 - Never,0,1,0,1,0,1,1,1,1,0,1,1
+Positive,0,1,0.13,0.2,0,0,2 - I often used a facemask to protect myself,2,1 - Never,0,0,0,0,0,0,0,0,0,0,0,0
+Positive,7,4,0.6,0.5,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,1,1,1,1,0,1,1,0
+Positive,7,2,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,0,1,1,1,1,0,1,0,1,0
+Positive,5,1,0.6,1,0.6,1,4 - I always used a facemask.,3,1 - Never,0,0,1,1,0,0,1,1,0,0,1,0
+Positive,6,3,0.13,0.05,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,0,0,0,0,1,1
+Positive,9,4,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,1,1,0,1,1,0
+Positive,8,3,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,0,1,1,1,0,0
+did not test - doctor suspected,8,4,0.6,1,0.6,1,4 - I always used a facemask.,3,1 - Never,0,1,0,1,1,1,1,1,1,0,0,1
+Positive,2,5,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,0,1,0,0,0,0,0,0,0,0
+Positive,2,1,0,0,0.6,1,4 - I always used a facemask.,3,1 - Never,0,1,0,0,0,0,0,0,0,0,1,0
+Positive,7,1,0,0,0,0,1 - I got sick before facemask use became widespread. I did not wear a mask.,0,1 - Never,0,1,0,1,1,1,0,0,1,0,1,1
+Positive,1,1,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,0,0,0,0,0,0,0
+Positive,1,1,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,0,0,0,0,0,0,0
+Positive,5,2,0,0,0.13,0.1,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,0,0,1,0,0,1,0
+Positive,7,2,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,0,1,1,0,1,0,0
+Positive,6,1,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,1,1,1,1,0,0,1,0
+Positive,7,3,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,1,0,1,1,1,0,0,0,1,1,1
+Positive,3,2,1.75,2,0.6,1,4 - I always used a facemask.,3,1 - Never,0,0,0,0,0,1,0,0,0,1,1,0
+Positive,1,2,0.6,1,0,0,4 - I always used a facemask.,3,1 - Never,0,0,0,1,0,0,0,0,0,0,0,0
+Positive,8,4,0,0,0,0,4 - I always used a facemask.,3,1 - Never,0,0,1,1,1,1,1,0,1,0,1,1
+did not test - doctor suspected,7,4,0,0,0.6,1,4 - I always used a facemask.,3,1 - Never,0,1,1,1,1,1,0,0,0,1,1,0
